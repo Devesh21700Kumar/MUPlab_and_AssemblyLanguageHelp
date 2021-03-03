@@ -6,3 +6,6 @@ https://www.geeksforgeeks.org/8086-program-to-reverse-a-string/
 https://www.youtube.com/watch?v=SL--qoiu7yA&list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1
 (playlist GG)
 
+https://en.wikipedia.org/wiki/FLAGS_register
+(Flags)
+
